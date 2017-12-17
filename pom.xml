@@ -21,6 +21,7 @@
 		<module>oulipo-appia-core</module>
 		<module>oulipo-communications</module>
 		<module>oulipo-jgcs</module>
+        <module>oulipo-tutorial</module>
 	</modules>
 
 	<properties>
